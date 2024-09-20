@@ -1,0 +1,9 @@
+.board{
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    border: 1px solid black;
+    
+}
