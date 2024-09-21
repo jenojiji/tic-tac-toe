@@ -1,3 +1,18 @@
 .game{
-    display: inline;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
 }
+
+.game-info ol li {
+    font-size: 16px;
+    font-family: Poppins;
+    padding: 10px;
+}
+
+.history-button{
+    font-size: 14px;
+    font-family: Poppins;
+    padding: 8px;
+}
+
